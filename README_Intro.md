@@ -1,3 +1,6 @@
+*** THIS WAS A GROUP PROJECT***
+
+
 ## Metro Scooters Analysis
 In May of 2018, Bird dropped hundreds of scooters on the streets of Nashville with no permission. In response, Metro sued, which caused Bird to remove and wait for permits. Metro began developing regulations for scooters and other shared urban mobility devices (SUMDs). In 2019, the Metro Council passed legislation enacting a one-year pilot program for scooters. For this project, you have been provided with the data for 3 months of this pilot program with the goal of reporting on usage trends and generating recommendations for quantity and distribution of scooters in Nashville.
 
@@ -20,3 +23,5 @@ As you know, it's important to gain an understanding of new datasets before divi
 - What are the minimum and maximum values for all the latitude and longitude columns? Do these ranges make sense, or is there anything surprising?
 -What is the range of values for trip duration and trip distance? Do these values make sense? Explore values that might seem questionable.
 - Check out how the values for the company name column in the scooters table compare to those of the trips table. What do you notice?
+
+*** This  WAS A GROUP PROJECT***
